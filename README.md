@@ -1,5 +1,5 @@
 # Telegram Bot для обработки и стилизации(в v0.2) от команды SiUS.Project
-Цель проекта: Дать возможность людям обрабатывать их изображение с помощью выбранных фильтров в интерфейсе бота
+Цель проекта: Дать возможность людям обрабатывать их изображение с помощью выбранных фильтров в интерфейсе бота  
 Техническое задание: [ссылка на Google.Docs](https://docs.google.com/document/d/1shOYLaXHshp9EgL5kw7tha0iFfXig3wc/edit)  
 Отчет: [ссылка на Google.Docs](https://docs.google.com/document/d/15S9r-M05tnoPMe8i-QwRQDKkfYbFcMQi/edit)  
 
